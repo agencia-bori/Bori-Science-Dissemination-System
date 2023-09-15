@@ -281,3 +281,29 @@ The side menu provides a quick snapshot of the data:
 4. **Engagement Tab:** Under construction. Keep an eye out for metrics and insights related to user engagement and paper outreach.
 
 Our Power BI dashboard ensures that stakeholders have clear, visual, and timely insights from the data, enabling data-driven decision-making and strategic planning.
+
+---
+
+## External Integration: PDF AI Summary for Scientific Journals
+
+As a part of our comprehensive solution, we've also integrated with the [PDF AI Summary for Scientific Journals](https://github.com/ritazh/pdf-ai-summary) project. This repository showcases the practical application of GPT for extracting summaries, headlines, and identifying targeted audiences for scientific journals.
+
+### Key Highlights:
+- **Objective**: Utilize GPT for generating concise and pertinent summaries of scientific journals.
+- **Status**: This has been crafted as a hackathon project and is not recommended for production usage.
+
+### [Demo](#) <!-- Replace # with the actual link to the demo if available -->
+
+### Development and Setup:
+1. **Pre-requisites**:
+   - SteamLit installation.
+   - Azure OpenAI API Key, endpoint, and Azure Storage account connection strings set as environment variables.
+2. **Running the App**:
+   - Begin by installing Python dependencies using: `pip install -r requirements.txt`
+   - Launch the Streamlit app with the command: `streamlit run app.py` (for debug logs, append `--logger.level=debug`)
+   - By default, the application is accessible at: [http://localhost:8501](http://localhost:8501)
+
+For a detailed guide and further information, visit the project's official [GitHub repository](https://github.com/ritazh/pdf-ai-summary).
+
+---
+
