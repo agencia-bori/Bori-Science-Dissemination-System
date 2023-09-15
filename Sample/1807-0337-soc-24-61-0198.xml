@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1" specific-use="sps-1.9" article-type="research-article" xml:lang="pt">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">soc</journal-id>
+            <journal-title-group>
+                <journal-title>Sociologias</journal-title>
+                <abbrev-journal-title abbrev-type="publisher">Sociologias</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1517-4522</issn>
+            <issn pub-type="epub">1807-0337</issn>
+            <publisher>
+                <publisher-name>Programa de Pós-Graduação em Sociologia - UFRGS</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.1590/18070337-117585</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>ARTIGOS</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Dois casos na disputa paradigmática do trabalho de socioeducador</article-title>
+                <trans-title-group xml:lang="en">
+                    <trans-title>Two cases in the paradigmatic dispute of socio-educator work</trans-title>
+                </trans-title-group>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid">0000-0003-3277-592X</contrib-id>
+                    <name>
+                        <surname>Oliveira</surname>
+                        <given-names>Rosalvo Negreiros de</given-names>
+                        <suffix>Júnior</suffix>
+                    </name>
+                    <xref ref-type="aff" rid="aff01">*</xref>
+                    <xref ref-type="fn" rid="fn01"/>
+                    <xref ref-type="corresp" rid="c01"/>
+                </contrib>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid">0000-0003-2978-4278</contrib-id>
+                    <name>
+                        <surname>Brandão</surname>
+                        <given-names>Marcílio Dantas</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff02">**</xref>
+                    <xref ref-type="fn" rid="fn02"/>
+                    <xref ref-type="corresp" rid="c02"/>
+                </contrib>
+            </contrib-group>
+            <aff id="aff01">
+                <label>*</label>
+                <institution content-type="orgname">Universidade Estadual do Ceará</institution>
+                <addr-line>
+                    <named-content content-type="city">Fortaleza</named-content>
+                    <named-content content-type="state">CE</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Estadual do Ceará, Fortaleza, CE, Brasil.</institution>
+            </aff>
+            <aff id="aff02">
+                <label>**</label>
+                <institution content-type="orgname">Universidade Federal do Vale de São Francisco</institution>
+                <addr-line>
+                    <named-content content-type="city">Juazeiro</named-content>
+                    <named-content content-type="state">BA</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Federal do Vale de São Francisco, Juazeiro, BA, Brasil.</institution>
+            </aff>
+            <author-notes>
+                <fn fn-type="other" id="fn01">
+                    <label>Rosalvo Negreiros de Oliveira Junior</label>
+                    <p>é Sociólogo, Mestre em Sociologia pelo Programa de Pós-Graduação em Sociologia da Universidade Estadual do Ceará e Pesquisador do Núcleo de Pesquisas Sociais do Programa de Pós-Graduação em Políticas Públicas - NUPES/PPGPP da UECE.</p>
+                </fn>
+                <corresp id="c01">
+                    <email>rosalvonegreiros@gmail.com</email>
+                </corresp>
+                <fn fn-type="other" id="fn02">
+                    <label>Marcílio Dantas Brandão</label>
+                    <p>é Doutor em Sociologia (Universidade Federal de Pernambuco e École des Hautes Études en Sciences Sociales) e professor adjunto no Colegiado de Ciências Sociais da Universidade Federal do Vale do São Francisco.</p>
+                </fn>
+                <corresp id="c02">
+                    <email>marcilio.brandao@univasf.edu.br</email>
+                </corresp>
+            </author-notes>
+            <pub-date publication-format="electronic" date-type="pub">
+                <day>0</day>
+                <month>0</month>
+                <year>2023</year>
+            </pub-date>
+            <pub-date publication-format="electronic" date-type="collection">
+                <season>Sep-Dec</season>
+                <year>2022</year>
+            </pub-date>
+            <volume>24</volume>
+            <issue>61</issue>
+            <fpage>198</fpage>
+            <lpage>225</lpage>
+            <history>
+                <date date-type="received">
+                    <day>11</day>
+                    <month>08</month>
+                    <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>09</month>
+                    <year>2022</year>
+                </date>
+            </history>
+            <permissions>
+                <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="pt">
+                    <license-p>Este é um artigo publicado em acesso aberto (<italic>Open Access</italic>) sob a licença <italic>Creative Commons Attribution</italic>, que permite uso, distribuição e reprodução em qualquer meio, sem restrições desde que o trabalho original seja corretamente citado.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <title>Resumo</title>
+                <p>Inquietados com a experiência de Antônio Carlos Gomes da Costa que, no auge da ditadura militar, implementou uma inovadora ideia de atendimento educacional de adolescentes em privação de liberdade, resgatamos seu relato dessa experiência em Minas Gerais e o cotejamos ao processo de constituição recente da categoria de trabalho de socioeducadores no Ceará, para realizar uma análise comparada das dinâmicas afetivas das duas experiências. À luz da teoria afetiva de Spinoza, associada à sociologia configuracional de Norbert Elias, postulamos que na experiência mais recente abundam medo e vergonha, enquanto no caso pregresso predominam reconhecimento e aprovação em relação ao trabalho hoje denominado de socioeducador. Por fim, identificamos os polos paradigmáticos da configuração desta categoria de trabalho nas distintas épocas e constatamos que a polaridade se reproduz nas duas experiências com alternância de posição e forma nas disputas entre um paradigma autoritário e outro institucional democrático.</p>
+            </abstract>
+            <trans-abstract xml:lang="en">
+                <title>Abstract</title>
+                <p>Concerned with the experience of Antônio Carlos Gomes da Costa who, at the height of the military dictatorship in Brazil, implemented an innovative idea of educational assistance to court-involved youth, we recall his account of this experience in Minas Gerais and compare it to the process of recent constitution of the work category of social educators in Ceará/Brazil. Thus, our idea is to make a comparative analysis of the affective dynamics of the two experiences. In light of Spinoza's theory of affects, associated with Norbert Elias’ figurational sociology, we postulate that in the most recent experience fear and shame abound, while in the previous case recognition and approval prevail in relation to the occupation currently called social educator. Finally, we identified the paradigmatic poles in the configuration of this category of work at different times and found that the polarity is reproduced in the two experiences with an alternation of position and form in the disputes between an authoritarian paradigm and another democratic institutional one.</p>
+            </trans-abstract>
+            <kwd-group xml:lang="pt">
+                <title>Palavras-chave</title>
+                <kwd>sistema socioeducativo</kwd>
+                <kwd>socioeducadores</kwd>
+                <kwd>teoria dos afetos</kwd>
+                <kwd>sociologia configuracional</kwd>
+            </kwd-group>
+            <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>socio-educational system</kwd>
+                <kwd>social educators</kwd>
+                <kwd>theory of the affects</kwd>
+                <kwd>figurational sociology</kwd>
+            </kwd-group>
+            <counts>
+                <fig-count count="0"/>
+                <table-count count="0"/>
+                <equation-count count="0"/>
+                <ref-count count="31"/>
+                <page-count count="28"/>
+            </counts>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="intro">
+            <title>Introdução</title>
+            <p>Ao longo de pesquisa de mestrado em sociologia empreendida entre 2019 e 2021, identificamos que socioeducadores formam uma categoria profissional que ainda disputa a configuração de sua autoimagem. Investigando a situação específica do estado do Ceará, observamos que, desde 2017, há um esforço de consolidação do paradigma institucional democrático consoante aos marcos legais do conjunto dos direitos humanos, Constituição Federal de 1988, Estatuto da Criança e do Adolescente (ECA) e Sistema Nacional de Atendimento Socioeducativo (Sinase) que fundamentam legalmente a “doutrina da proteção integral”. Por outro lado, percebemos a continuidade de influência do paradigma autoritário relatado por <xref ref-type="bibr" rid="B27">Schwarcz (2019)</xref>, no qual – além do conteúdo patrimonialista, racista e violento – há resquícios da “doutrina da situação irregular” (<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>).</p>
+            <p>Interpretamos essa disputa como uma ameaça para o esforço realizado pela Superintendência do Sistema Estadual de Atendimento Socioeducativo (SEAS) do Ceará. Tendo adotado um “Novo Modelo de Gestão” desde 2017, a SEAS conquistou avanços estruturais e organizacionais, mas encontra dificuldades para efetivar a transição anunciada em seu recente planejamento (<xref ref-type="bibr" rid="B06">Brasil, 2016</xref>). O principal empecilho é a relação com os socioeducadores que trabalham nas unidades do Sistema. Os encontros entre os sujeitos e a instituição gestora invariavelmente acarretam afecções tristes que geram afetos de distanciamento, falta de confiança, medo e repulsa. Além de prejudicar a coesão na estrutura e o desenvolvimento dos projetos pedagógicos e protocolos de segurança, este fenômeno abre espaço para que o paradigma autoritário potencialize sua inserção na configuração da categoria de trabalho. Neste texto, sintetizamos a análise deste dilema contemporâneo ao mesmo tempo que o cotejamos a uma experiência inovadora de um passado correlato que teve lugar no estado de Minas Gerais.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Enquadramento teórico-metodológico</title>
+            <p>A pesquisa que empreendemos no sistema socioeducativo do Ceará teve um arcabouço teórico sustentado na sociologia configuracional desenvolvida por Norbert Elias e na filosofia dos afetos de Spinoza. A definição de Spinoza que consideramos central para o emprego de sua teoria de maneira complementar a uma análise sociológica configuracional aponta que “[...] se vários indivíduos contribuem para uma única ação, de maneira tal que sejam todos, em conjunto, a causa de um único efeito, considero-os todos, sob este aspecto, como uma única coisa singular” (<xref ref-type="bibr" rid="B29">Spinoza, 2017</xref>[1677], p. 81). Daí, recorremos a Norbert Elias para estabelecer uma delimitação sociológica do que vem a ser esta “coisa singular”.</p>
+            <p>Elias desenvolveu sua teoria configuracional no início do século XX conduzindo suas análises a partir das imagens e autoimagens difundidas culturalmente nas sociedades que estudou. As arquiteturas sociais e seus respectivos processos socio-históricos foram objetos que tentou compreender para produzir entendimentos sobre a constituição e transformações das relações sociais. O autor estabeleceu, por esta via, a noção de “redes de interdependência”, que emergem como objetos indivisíveis da análise sociológica (<xref ref-type="bibr" rid="B15">Elias, 1994</xref>). O conceito de rede foi mobilizado por Elias para ilustrar o sistema relacional em que se desenvolvem os agrupamentos humanos. Um complexo e maleável emaranhado de fios cuja disposição corresponde à maneira que cada um depende dos outros. Essa interdependência indica o modo como emoções tais como medo, vergonha, esperança e orgulho afetam o processo configuracional correspondente a cada agrupamento, sua coesão, seu código comportamental específico, seus níveis de hierarquização – podendo identificar organizações de grupos entre dominantes/estabelecidos e dominados/<italic>outsiders</italic> ou qualquer outro formato possível (<xref ref-type="bibr" rid="B16">Elias, 2000</xref>) e sua distribuição de capital, seja econômico ou social. A correlação analítica de diferentes períodos desse processo permitiu-lhe explicar passado e presente do mesmo, bem como deu condições de tecer apontamentos fundamentados sobre seu futuro (<xref ref-type="bibr" rid="B15">Elias, 1994</xref>).</p>
+            <p>Assim, consideramos, a partir de uma perspectiva eliasiana, que uma rede de interdependência formada por indivíduos cuja ação converge em um determinado sentido, seja profissional, político, territorial, ideológico etc., pode ser uma coisa singular como a que refere Spinoza. A teoria afetiva de <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref>, corroborada cientificamente por <xref ref-type="bibr" rid="B14">Damásio (2004)</xref>, enriqueceu as possibilidades interpretativas para condicionantes afetivos das ações efetivadas nas redes de interdependência estudadas. Recorremos ao neurocientista Antônio Damásio em meio a uma seleção multidisciplinar de estudiosos das emoções (<xref ref-type="bibr" rid="B03">Brandão, 2019</xref>, p. 63), pois suas postulações – baseadas em recursos de outro campo científico e bastante atuais – ratificam a existência do processo afetivo proposto por Spinoza. <xref ref-type="bibr" rid="B13">Damásio (2000)</xref> diferencia sentimentos e emoções humanas, as emoções são exteriorizadas por reações fisiológicas e comportamentos, enquanto os sentimentos ficam restritos à mente do sujeito. Tanto as emoções quanto os sentimentos, na obra de <xref ref-type="bibr" rid="B13">Damásio (2000</xref>; <xref ref-type="bibr" rid="B14">2004)</xref>, assim como os afetos nas proposições de Spinoza, decorrem de imagens produzidas no pensamento a partir de encontros presentes, rememorações do passado ou projeções do futuro. Por isso, como afirma <xref ref-type="bibr" rid="B14">Damásio (2004)</xref>, precisamos entendê-los separadamente para depois uni-los novamente em forma de afetos.</p>
+            <p>Segundo <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref>, todos os seres vivos compartilham o que ele chama de “potência”, que é a característica de perseverar na própria existência. Quando os encontros favorecem a potência, produzem-se “afetos alegres”, como amor, satisfação e orgulho. Por outro lado, quando os encontros prejudicam essa capacidade de existir surgem “afetos tristes”, como ódio, frustração e vergonha. O resultado de cada encontro alimenta os desejos que sentimos. Dessa forma, afetos alegres geram o desejo de que os encontros que os proporcionaram se repitam e que a existência dos objetos relacionados a esses seja favorecida; enquanto afetos tristes fortalecem o desejo de que seus respectivos encontros não tornem a acontecer e os objetos correlacionados deixem de existir. Por este caminho, <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref> delimita os três afetos que apresenta como primários: alegria, tristeza e desejo.</p>
+            <p>Nessa perspectiva, a ação individual está vinculada ao desejo que, contudo, sofre pressões condicionantes dos demais encontros. Logo, mesmo que um determinado desejo esteja estabelecido, a ação que o realiza é condicionada pelos demais encontros e afetos que sua efetivação sugere. Essa decisão é tomada a partir do arcabouço afetivo composto pelo acúmulo de imagens derivadas de encontros pregressos e de um cálculo imagético com diferentes graus de racionalidade, pois realiza-se em uma dimensão afetiva que, segundo<xref ref-type="bibr" rid="B13"> Damásio (2000)</xref>, fica no limiar que separa em nós a emoção – entendida como a reação fisiológica do corpo a encontros com o mundo externo – do sentimento, que é a conscientização deste processo emotivo.</p>
+            <p>Dessa maneira, a referida pesquisa de mestrado resultou em uma concepção configuracional do trabalho de socioeducadores no sistema socioeducativo em Fortaleza, que permitiu analisar os encontros proporcionados cotidianamente pelo trabalho na referida função, a dinâmica afetiva decorrente dessas interações e seus efeitos sobre a constituição das redes de interdependência dos socioeducadores. Isso nos proporcionou as bases para analisar a implementação da própria política de socioeducação do estado do Ceará a partir de aspectos pouco discutidos na literatura precedente, mas bastante importantes na prática cotidiana do trabalho de socioeducadores (<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>).</p>
+            <p>Em discussões subjacentes à referida pesquisa de mestrado, surgiu uma provocação do orientador no sentido de expor os relatos de <xref ref-type="bibr" rid="B12">Costa (1999)</xref> à mesma metodologia utilizada para categorizar os dados obtidos em Fortaleza. Tal metodologia se baseou na codificação aberta, inspirada na proposta de <xref ref-type="bibr" rid="B30">Strauss e Corbin (2008)</xref>, a qual consiste em produzir uma tipologia dos elementos em análise que apontam a dinâmica afetiva que configura a rede de interdependência estudada. Essa sociogênese (<xref ref-type="bibr" rid="B15">Elias, 1994</xref>) converte os enunciados em imagens e autoimagens, evidenciando as afecções em curso e os paradigmas socio-históricos que incidem sobre o desenvolvimento da estrutura na qual são difundidos.</p>
+            <p>A partir da compreensão desse processo configuracional, buscamos neste artigo realizar uma análise comparada entre duas perspectivas separadas por mais de quatro décadas e muitas particularidades socioestruturais. De um lado, resgatamos a produção de Antônio Carlos Gomes da <xref ref-type="bibr" rid="B12">Costa (1999)</xref> sobre sua concepção de educador formulada a partir de 1977 no trabalho com crianças e adolescentes do sexo feminino atendidas em uma unidade da Fundação Estadual de Bem-Estar do Menor (Febem) de Minas Gerais. De outro, nossa concepção de socioeducador formulada em 2021, a partir da análise que empreendemos junto ao sistema socioeducativo em Fortaleza, no estado do Ceará. Esta abordagem se restringiu a medidas de internação de adolescentes do sexo masculino que cometeram atos infracionais.</p>
+            <p>Entendemos que as semelhanças e divergências entre essas duas perspectivas podem refletir como o processo configuracional da categoria de trabalho encarregada de atender adolescentes que precisam ser reconduzidas à vida em sociedade adquiriu os atributos que identificamos como peculiares ao socioeducador. Nossa expectativa é de que este estudo aponte alguns obstáculos afetivos para uma configuração potente do trabalho desses sujeitos que são essenciais para a efetividade da política nacional de socioeducação e, a partir desses apontamentos, possamos desenvolver maneiras de enfrentar os atuais desafios de implementação do sistema.</p>
+        </sec>
+        <sec>
+            <title>Delimitação do problema</title>
+            <p>Lidar com crianças e adolescentes envolvidos em conflitos sociais é um problema abordado em políticas nacionais desde o Código de Mello Matos, de 1927 (<xref ref-type="bibr" rid="B25">Raniere, 2014</xref>); passando pela Política Nacional do Bem-Estar do Menor, de 1964, e pelo Código de Menores, de 1979, até chegar ao Sistema Nacional de Atendimento Socioeducativo (Sinase) atualmente vigente (<xref ref-type="bibr" rid="B31">Veronese; Lima, 2009</xref>; <xref ref-type="bibr" rid="B23">Peixoto, 2011</xref>). Esse processo teve uma importante mudança com a promulgação da <xref ref-type="bibr" rid="B05">Constituição Federal (1988)</xref> e a adoção do <xref ref-type="bibr" rid="B07">ECA (1990)</xref>, que estabeleceram discussões as quais culminaram com a instituição do Sinase por lei federal (<xref ref-type="bibr" rid="B09">Brasil, 2012</xref>), determinando os princípios e diretrizes norteadoras dos projetos e programas que a União e os municípios devem desenvolver para o atendimento de crianças e adolescentes sentenciados pelo cometimento de atos infracionais. Priorizando medidas socioeducativas em meio aberto, tais como prestação de serviço à comunidade (PSC) e liberdade assistida (LA), o Sinase, em acordo com o que é previsto no <xref ref-type="bibr" rid="B07">ECA (1990)</xref>, nas Regras de Beijing, na Convenção dos Direitos da Criança e nas Regras de Havana (<xref ref-type="bibr" rid="B19">Nações Unidas Brasil, 2015</xref>), admite medidas restritivas de liberdade como a semiliberdade e internação em estabelecimento educacional apenas para situações excepcionais e com brevidade.</p>
+            <p>No estudo de <xref ref-type="bibr" rid="B22">Oliveira Júnior (2021)</xref>, o foco investigativo é voltado para a medida de internação em unidades socioeducativas na cidade de Fortaleza, no Ceará. Dentre as dez unidades em funcionamento nesta capital, seis são destinadas a essa medida, que atende adolescentes e jovens de 12 a 21 anos que cometeram atos infracionais como roubo, homicídio, tráfico de drogas, porte de armas, latrocínio, furto, estupro, entre outros. Em que pese o fato de a experiência relatada por <xref ref-type="bibr" rid="B12">Costa (1999)</xref> ter se implementado muito antes da instituição do Sinase, o trabalho narrado por esse autor converge com a recente pesquisa por se dirigir também à reflexão acerca do que se faz em unidades de privação de liberdade para crianças e adolescentes.</p>
+            <p>No desenvolvimento deste artigo, apresentaremos a experiência socioeducativa mais recente e refletiremos sobre a narrativa de <xref ref-type="bibr" rid="B12">Costa (1999)</xref>. Por fim, discutiremos convergências e diferenças entre ambas, estabelecendo a argumentação que nos leva a concluir que – apesar dos recentes avanços democratizantes das normas e leis relativas ao tema – o trabalho anterior alcançou reconhecimento e aprovação enquanto no trabalho mais recente abundam medo e vergonha.</p>
+        </sec>
+        <sec>
+            <title>Socioeducadores no Ceará em 2021</title>
+            <p>Em Fortaleza, observa-se o quantitativo médio de 74 socioeducadores lotados em cada unidade socioeducativa (<xref ref-type="bibr" rid="B10">Ceará, 2018</xref>, p. 59). Há, ainda, outros profissionais para áreas específicas como saúde, assistência social, psicologia, lazer e educação dos adolescentes, cujo quantitativo precisa considerar as diversas situações cotidianas e diferentes eventos desenvolvidos durante o cumprimento das medidas. O Sinase determina que a atuação dos socioeducadores deve abranger a segurança dos socioeducandos e demais funcionários da unidade e as necessidades pedagógicas dos adolescentes. Analisando a classificação das atribuições desses trabalhadores pudemos distribuí-las em quatro categorias operacionais: segurança; acolhimento, acompanhamento e cuidado; educação; planejamento e gestão de atividades (<xref ref-type="bibr" rid="B08">Brasil, 2006</xref>).</p>
+            <p>Entre 2010 e 2017, a Secretaria do Trabalho e Desenvolvimento Social (STDS) acumulava entre as suas responsabilidades a administração da política socioeducativa estadual. A complexidade do sistema apresentava demandas estruturais e organizacionais que estavam além da capacidade de gestão do órgão. Essa incapacidade administrativa resultou em inúmeras violações dos direitos humanos do público atendido e, como consequência, constantes conflitos internos, fugas, motins e rebeliões (<xref ref-type="bibr" rid="B06">Brasil, 2016</xref>, p. 17-19). Nesse período, organizações como o Mecanismo Nacional de Prevenção e Combate à Tortura e o Fórum Permanente de ONGs de Defesa de Direitos de Crianças e Adolescentes (Fórum DCA) realizaram inspeções em algumas unidades socioeducativas de internação e constataram violações que fundamentaram a denúncia do Estado do Ceará à Corte Interamericana de Direitos Humanos, cuja sentença resultou na Medida Cautelar Nº 6015 (<xref ref-type="bibr" rid="B20">OEA, 2015</xref>), elaborada pela Comissão Interamericana de Direitos Humanos (CIDH) com demandas objetivas que orientaram os esforços do Governo do Estado para reformular a política socioeducativa no Ceará (<xref ref-type="bibr" rid="B06">Brasil, 2016</xref>).</p>
+            <p>A criação da SEAS, como entidade exclusiva para gestão da socioeducação, foi uma ação estratégica com o objetivo de efetivar, sobretudo, uma mudança cultural no ambiente socioeducativo do estado. O intuito era combater os resquícios histórico-culturais de doutrinas carcerárias, punitivas e repressivas e dar lugar a projetos pedagógicos em convergência com os direitos humanos e com foco numa recondução dos adolescentes ao convívio em sociedade fundamentalmente orientada pelos princípios e diretrizes do Sinase (<xref ref-type="bibr" rid="B06">Brasil, 2016</xref>).</p>
+            <p>A gestora planejava implementar essa nova cultura a partir da restruturação do trabalho, oferecendo condições organizacionais para que os esforços convergissem nesse sentido, e da realização de cursos e oficinas de maneira continuada, para a qualificação dos envolvidos com todo o processo de atendimento socioeducativo (<xref ref-type="bibr" rid="B06">Brasil, 2016</xref>). Contudo, a perspectiva que nossos interlocutores nos ofereceram demonstrou que o curso inicial ficou aquém das expectativas dos recém-admitidos socioeducadores os quais consideraram que os professores e palestrantes dessa etapa de qualificação – então representantes da SEAS –, apesar de todo o conteúdo teórico apresentado, não dominavam inteiramente o processo socioeducativo e isso não lhes conferia a confiança necessária para um início tranquilo nas atividades cotidianas. Também consideraram que a descrição do trabalho e do público com que trabalhariam não correspondeu à realidade encontrada desde seu primeiro dia de trabalho nas unidades.</p>
+            <p>Em contraposição, os novos socioeducadores conheceram, ainda durante o curso de qualificação, alguns socioeducadores que já trabalhavam nas unidades desde a gestão da STDS, também aprovados na seleção. E, posteriormente, já em campo, conheceram os agentes que ainda trabalhavam em regime de aviso prévio, ou seja, com o desligamento iminente da função. Em um primeiro momento, os socioeducadores antigos apresentaram aos novatos mais conhecimento do que a SEAS no que tange ao funcionamento real das unidades, ao relacionamento com os socioeducandos e aos conflitos característicos do trabalho.</p>
+            <p>O conteúdo teórico apresentado pela SEAS, seguido da incongruência das descrições da realidade cotidiana das unidades, ofereceu aos socioeducadores novatos afetos de dúvida sobre a capacidade da entidade gestora. Somada a isso, a demissão de socioeducadores antigos deu início à produção da imagem de que, enquanto elemento genérico, qualquer socioeducador ou a própria categoria poderia ser descartada a qualquer momento. Por outro lado, os antigos que permaneceram trabalhando apresentaram, além de descrições mais convergentes com a realidade objetiva das unidades, soluções imediatas para os problemas que surgiam no cotidiano.</p>
+            <p>Contudo, com o decorrer das atividades, os novatos perceberam que mudanças estruturais e organizacionais estavam acontecendo. Os resquícios dos períodos caóticos da gestão STDS estavam sendo mitigados tanto com a restruturação quanto com a reorganização da medida. Algumas práticas comuns dessa fase anterior, incentivadas pelos antigos, divergiam do rumo que a transição estava tomando. Assim, nem a SEAS nem os antigos detinham uma confiança coesa de todos os novatos.</p>
+            <p>O processo que observamos com essa quebra de expectativas e busca por reorientação das ações dos socioeducadores novatos condiz com a proposição de <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref> sobre o estado de flutuação de ânimo, que incide sobre o sujeito – ou sobre a rede de interpendência, na perspectiva que empregamos aqui – produzindo afecções contraditórias em relação às imagens previstas para os encontros. Da gestão, por um lado, esperavam confiança, mas foram afetados por dúvida, queriam ser valorizados, mas sentiram sua categoria fragilizada em um duro processo de transição geracional; por outro, esperavam dos socioeducadores antigos experiências positivas, soluções qualificadas para as dificuldades do trabalho, mas encontraram também desencanto e falta de preparo. Assim, o cotidiano de trabalho dos socioeducadores se tornou um esforço de triagem de procedimentos e condutas, em que absorviam da SEAS, da herança dos antigos e dos encontros com os socioeducandos e demais redes do trabalho o arcabouço de práticas e posturas que mais atribuem potência a suas ações.</p>
+            <p>Essa dinâmica influenciou, e ainda influencia, as diferentes formas de atuação que se desenvolveram nas unidades. Enquanto alguns socioeducadores percebem avanços na nova maneira de atuar baseada no modelo de gestão proposto pela SEAS, alguns ainda se sentem mais seguros com a metodologia herdada dos antigos. Nesse sentido, nossos interlocutores possibilitaram uma tipificação desses sujeitos em relação às condutas de trabalho. Classificamos, então, os atributos ligados a uma postura mais aconselhadora, gentil, favorecedora de atividades externas aos dormitórios como relativas a socioeducadores de tipo “orientador”; enquanto posturas mais ríspidas, mantenedoras de um distanciamento em relação aos adolescentes e propensas à ênfase da ordem, mesmo que em sacrifício de projetos pedagógicos, relacionamos como sendo do tipo “árbitro”.</p>
+            <p>Em sobreposição a esses tipos, também identificamos o tipo “displicente”. De natureza diferente dos dois primeiros, esse tipo não se refere especificamente às práticas assimiladas para lidar com as demandas do cotidiano, mas com a maneira que elas são implementadas, pois, de acordo com nossos interlocutores, há socioeducadores que atuam de forma desinteressada, demonstram indiferença em relação às necessidades pedagógicas e de segurança que o trabalho requer. Em nossa perspectiva, essa postura reduz a potência da categoria, cuja gênese pode ser encontrada na deterioração da autoimagem pela afecção de inutilidade da função de socioeducador – desencadeada pela percepção de ineficácia produzida pela relevante observação de adolescentes reincidentes – e/ou nos afetos tristes como desconfiança, medo, frustração e ódio, derivados dos encontros com a SEAS. Em contraponto a esse tipo, identificamos ainda o socioeducador “engajado” que, de maneira idealizada, seria aquele sujeito que reúne atributos em convergência com a estratégia da medida como visão sistêmica, procura estudar e dominar os princípios e diretrizes que regem a socioeducação e, ainda, se esforça na análise técnica dos procedimentos empregados. É importante salientar que, apesar das convergências e conflitos existentes entre sujeitos propensos a diferentes polos desta estrutura, não cristalizamos socioeducadores em categorias específicas.</p>
+            <p>A partir de um encontro redutor da potência proporcionado pela SEAS – no qual se anunciou que um prometido concurso público para a função de socioeducador não seria mais realizado e a renovação do quadro de socioeducadores seria feita por meio de seleção simplificada composta por entrevista e análise curricular – iniciou-se um movimento de articulação entre sujeitos da rede dos socioeducadores e de redes externas, em defesa das demandas da categoria frente à percepção de que seu emprego estava em risco com o modelo de seleção anunciado pela Superintendência. Os sujeitos dessa rede de defesa que mais se destacaram no processo que culminou no cancelamento da seleção simplificada proposta pela SEAS e na renovação dos contratos temporários dos socioeducadores, foram dois Deputados Estaduais que participaram de reuniões com a Superintendência para discutir o assunto e aproveitaram os atos realizados pelos socioeducadores para discursar sobre suas concepções em relação ao tema da socioeducação e propagar sua atuação. Nessas manifestações públicas da rede de defesa foi possível identificar enunciados em consonância com a Doutrina da Situação Irregular e seu paradigma autoritário e, consequentemente, divergentes da Doutrina da Proteção Integral e do que convencionamos chamar de paradigma institucional democrático. Considerando a característica de que um afeto só pode ser destruído por outro contrário e mais forte (<xref ref-type="bibr" rid="B29">Spinoza, 2017</xref>), compreendemos esse evento como um exemplo de como a dinâmica afetiva debilitada por encontros tristes abre espaço para investidas de grupos insurgentes que elevam a potência da rede ao se contrapor àquilo que a reduz.</p>
+            <p>A compreensão dessa disputa paradigmática que acompanha o processo de constituição das autoimagens inerentes à categoria de trabalho dos socioeducadores em Fortaleza nos dá a oportunidade de interpretar o processo que talvez represente não só a gênese dessa categoria, mas do próprio embate entre os paradigmas que regem a Doutrina da Situação Irregular e a Doutrina da Proteção Integral no âmbito da socioeducação. Para isso, realizamos agora um salto cronológico até 1977 e deslocamo-nos para a cidade de Ouro Preto, em Minas Gerais. Foi nesse tempo e espaço que Antônio Carlos Gomes da Costa iniciou um processo reflexivo e prático que, anos mais tarde, veio a influenciar a formulação da política nacional de socioeducação como a conhecemos hoje (<xref ref-type="bibr" rid="B25">Raniere, 2014</xref>). <xref ref-type="bibr" rid="B12">Costa (1999)</xref> pensou e pôs em prática um modelo de atendimento a adolescentes em privação de liberdade que o levou à concepção ideal de uma figura central para o objetivo socioeducativo: o educador. É na construção dessa imagem que vamos nos concentrar a partir de agora.</p>
+        </sec>
+        <sec>
+            <title>Educador, segundo <xref ref-type="bibr" rid="B12">Costa (1999)</xref></title>
+            <p><xref ref-type="bibr" rid="B12">Costa (1999)</xref> relata que foi convidado, em 1977, para dirigir a Escola Barão de Camargos, posto que ocupou com importante cooperação de sua esposa Maria José Gomes da Costa com quem compartilhou moradia dentro das dependências da própria escola, onde chegavam a trabalhar 16 horas por dia, atendendo também demandas extraordinárias no período noturno. Por isso consideramos que, quando Costa utiliza a primeira pessoa do plural para narrar experiências administrativas, reflexões teóricas e momentos de afetividade na escola, é, sem desmerecer as demais pessoas que colaboraram diretamente no trabalho, à Maria José que se refere prioritariamente.</p>
+            <p>Esse estabelecimento funcionava como uma unidade da Febem-MG, destinada à privação de liberdade de adolescentes do sexo feminino que cometeram infrações, mas também admitia as que eram acusadas de conduta antissocial leve ou grave, portadoras de problemas mentais ou em situação de abandono. Ou, como resume o próprio autor: “tratava-se de um desses depósitos de crianças e jovens que, na esteira da execução da política de bem-estar do menor, foram criados por todo o País, sob o rótulo pomposo de ‘programas socioterapêuticos’” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 11).</p>
+            <p>As dificuldades que encontrou para lidar com as 180 adolescentes em atendimento e com a gestão de 20 funcionários foram ampliadas pela falta de orientação para esse trabalho. Percebeu que sua formação pedagógica alicerçada em Paulo Freire não o havia preparado para aquela situação e, como acadêmico, dedicou esforços em pesquisar experiências que lhe oferecessem alternativas e/ou respostas. Chegou, então, ao livro intitulado “Poema pedagógico”, de autoria do educador soviético Anton Makarenko (1888-1939), que – a partir de uma experiência profissional similar à de Costa – representou a resposta que este procurava. Tal resposta é resumida na seguinte passagem: “Senti que não havia nenhuma ciência, nenhuma teoria que pudesse, de forma imediata, nos ajudar naquela hora. Eu deveria deduzir tudo do conjunto de acontecimentos reais que transcorriam ante meus olhos” (Makarenko <italic>apud</italic>
+                <xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 13).</p>
+            <p>Costa compreendeu, então, que o conhecimento adquirido em sua formação como pedagogo poderia representar uma eficiente lanterna para “iluminar a leitura da realidade, mas não poderia substituí-la” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 13). Esse foi o início de um extraordinário esforço de autoanálise que o levou a perceber que tanto ele quanto seus companheiros e companheiras de trabalho estavam ali como educadores, mas também como aprendizes. Isso o levou à concepção de capacitação de educadores com base na relação interpessoal educador-educando enquanto conteúdo do trabalho socioeducativo. Imperava na experiência a dimensão de duplo sentido entre esses sujeitos enquanto educadores e aprendizes, ou seja, educar e aprender eram tratadas como atividades intrínsecas a ambos os polos da relação socioeducativa coordenada por Costa.</p>
+            <p>Antônio Carlos, partindo dos pressupostos freireanos que ressaltam a necessidade do pensamento crítico e da ação transformadora como postura desalienada indissociável do trabalho de educador, formulou as bases que considerou fundamentais para a prática daquele trabalho, ou o “quefazer”, do educador de “crianças e jovens em situação de risco pessoal e social” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 62). Assim, idealizou que esse trabalhador deva se caracterizar tanto como dirigente quanto como organizador e criador de acontecimentos. Por dirigente, ele concebe aquele que se esforça para dominar o processo socioeducativo, que analisa o sentido geral das suas ações deduzindo de seu movimento as leis específicas que o regem, construindo, portanto, “uma inteligência mais elevada do processo educativo” (p. 62).</p>
+            <p>Para <xref ref-type="bibr" rid="B12">Costa (1999, p. 63)</xref>, “é pelos acontecimentos que se mostre capaz de produzir que o educador imprime o caráter, define a identidade, a especificidade do processo por ele orientado”. É nesse momento de criação de acontecimentos que a legitimidade e a credibilidade da autoridade do educador em relação aos educandos são constituídas. Só então o diálogo entre educador e educando pode oferecer uma influência positiva para sua relação e, consequentemente, para o processo educativo.</p>
+            <p>À medida que os acontecimentos criados ficavam mais complexos, a demanda cognitiva necessária para dominar a situação também aumentava. Essa característica da proposta efetivada pelo autor exigiu uma progressiva capacitação de sua equipe de educadores. Parte relevante dessa capacitação foi a construção de um realismo pedagógico que tem por objetivo a superação de algumas visões equivocadas que se sedimentaram na pedagogia durante “a luta contra o marcial autoritarismo das políticas públicas sobre o ‘menor’ no Brasil” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 69).</p>
+            <p>O esforço, então, era prevenir uma prática educativa permeada por mitos como o da não conflitividade – a pretensão de que a relação educador-educando seja totalmente harmoniosa não corresponde à realidade. Segundo Costa, os conflitos cotidianos são parte necessária do processo educativo. Outro mito negado é o da horizontalidade, pois não há equiparação na posição hierárquica de educador-educando em processos educativos. Nessa dimensão, segundo o autor, o educador está em um patamar superior, entretanto, todo o sentido humano, social e pedagógico do processo está no educando. “A lúcida compreensão desse aspecto e da sua correta tradução em termos práticos resultam [que] o poder do educador deixa de ser poder-dominação para tornar-se, cada vez mais, poder-serviço” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 71). O mito da naturalidade também é refutado, posto que, para o autor, o processo educativo não pode ficar a cargo de intenções generosas seguindo o fluxo natural dos acontecimentos; ele precisa ser “previsto, planejado, prefigurado na mente e na expectativa do educador e do educando” (p. 72) – não é nada natural e espontâneo. Enquanto criador de acontecimentos, o educador deve admitir “o papel da iniciativa, da criatividade, da capacidade de inventar caminhos, de descobrir saídas, de forjar os instrumentos de seu trabalho” (p. 72-73). Por fim, o mito da suavidade também é atacado na concepção de Costa sobre o trabalho educativo, pois os momentos árduos, pesados, dolorosos e difíceis para o educador são parte da essência desse tipo de trabalho (p. 74).</p>
+            <p><xref ref-type="bibr" rid="B12">Costa (1999, p. 74)</xref> cita uma avaliação realizada com as educandas da escola Barão de Camargos incluindo questão sobre quem eram os educadores que “mais contribuíam para o seu crescimento, a sua educação, a melhoria da sua vida presente e do seu futuro”. Nesta passagem, identifica dois grupos de características que qualifica como tipos distintos de educadores: aos sujeitos do primeiro grupo denominou “flexíveis”, reconhecendo-os como liberais, bonzinhos e populares. Antônio Carlos considerava que educadores desse tipo tendiam a optar por facilidades preguiçosas que, em suma, representavam uma omissão no processo educativo. Por outro lado, há o tipo “tenaz”, que foi o eleito pelas educandas como mais eficaz – trata-se do educador que se relaciona de maneira firme, exigente, franca, dedicada e solidária, sobretudo, em momentos difíceis. Em relação a esse tipo, o autor chama a atenção, ainda, para o fato de que os três indivíduos nele enquadrados já haviam sido escolhidos em uma reunião entre os funcionários como os melhores educadores do quadro da escola.</p>
+            <p>Concebemos, portanto, a partir das elaborações de <xref ref-type="bibr" rid="B12">Costa (1999)</xref>, quatro tipos de educadores: o “diligente” – que é diretivo, organizador e criador de acontecimentos; o “espontâneo” – que atua de maneira instintiva, com certa ingenuidade e, por isso, está propenso a ser influenciado pelos mitos de não conflitividade, horizontalidade, naturalismo e suavidade, que o autor apresenta e rejeita; o tipo “flexível” – liberal, bonzinho e popular; e o “tenaz” – firme, exigente, franco, dedicado e solidário.</p>
+            <p>Essa identificação nos permitiu, juntamente com a contextualização oferecida por <xref ref-type="bibr" rid="B12">Costa (1999)</xref>, justapor tal tipificação e o relato da experiência mineira ao que sabemos sobre a constituição da categoria de trabalho dos socioeducadores na atualidade. Assim, pudemos estabelecer algumas inferências sobre como a dinâmica afetiva da configuração da rede de interdependência da Febem-MG influenciou os esforços de Antônio Carlos Gomes da Costa e, consequentemente, incidiu no processo que culminou na constituição do Sinase contribuindo para moldar o que compreendemos atualmente por socioeducação.</p>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussão</title>
+            <p>Com o processo de segmentação do atendimento à infância e adolescência estabelecido pelo ECA (1990), identificamos uma primeira diferença essencial entre a experiência relatada por <xref ref-type="bibr" rid="B12">Costa (1999)</xref> e a que nós investigamos no Ceará. Enquanto na Escola Barão de Camargos o público atendido agrupava adolescentes e jovens em situação de abandono, problemas mentais, conflitos sociais leves e outras que haviam cometido crimes de diferentes tipos, as unidades socioeducativas de internação que estudamos atendem estritamente adolescentes que cometeram atos infracionais.</p>
+            <p>Esta diferença, em um primeiro momento, parece representar uma simplificação do trabalho – e de fato o é –, mas em contraponto ela se associa ao aumento da complexidade da situação social do público-alvo do sistema socioeducativo. Em Fortaleza, a principal novidade nesse campo é o crescimento da influência de organizações criminosas no contexto social da infância e juventude (<xref ref-type="bibr" rid="B11">CCPHA, 2016</xref>). A estruturação empresarial do tráfico de drogas e armas no país sistematizou o recrutamento de crianças e adolescentes como mão de obra, elevando o patamar de violência e envolvendo indivíduos cada vez mais novos nesse negócio ilícito (<xref ref-type="bibr" rid="B24">Pereira Júnior; Beretta, 2020</xref>; <xref ref-type="bibr" rid="B26">Rodrigues; Ribeiro; Fraga, 2017</xref>).</p>
+            <p>Isso – associado à ausência de objetividade da Lei nº 11.343, de 23 de agosto de 2006, que institui o Sistema Nacional de Políticas Públicas sobre Drogas, estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes – promoveu o encarceramento em massa de uma parcela muito específica da população infanto-juvenil do país: “Com base em análises subjetivas para distinção entre traficantes e usuários, policiais começaram a efetuar prisões a torto e a direito – mais a torto do que a direito” (<xref ref-type="bibr" rid="B11">CCPHA, 2016</xref>, p. 442).        Dessa maneira, este encarceramento não afeta igualmente a população nacional, fazendo-se sentir marcadamente entre pretos, pobres e periféricos (<xref ref-type="bibr" rid="B04">Brasil; Santiago; Brandão, 2020</xref>). Assim, quando nos referimos a socioeducandos no Brasil, portanto, falamos cada vez mais de um amálgama social composto majoritariamente por meninos e meninas pobres, negros, moradores de periferia e sem acesso a políticas públicas de qualidade.</p>
+            <p>Nossa perspectiva também identifica nesse fenômeno a influência do paradigma neoliberal que, desde a década de 1990, vem se estabelecendo na configuração nacional e disseminando a exacerbação dos individualismos e a rejeição das sociabilidades não econômicas que lhes são características (<xref ref-type="bibr" rid="B02">Antunes, 2009</xref>). Esse modo de vida permitiu não só a implementação dos modelos de gestão das organizações criminosas, o aproveitamento do contexto de precarização estrutural do mundo do trabalho, que eliminou qualquer estabilidade ou segurança econômica nos empregos, mas também incutiu no arcabouço afetivo da população o ímpeto do consumismo como afirmação da própria existência (<xref ref-type="bibr" rid="B18">Lordon, 2015</xref>).</p>
+            <p>Essa disposição neoliberal, associada ao paradigma autoritário que está imbricado nas raízes socio-históricas do Brasil (<xref ref-type="bibr" rid="B27">Schwarcz, 2019</xref>), estabeleceu uma ética de desumanização da classe trabalhadora das periferias. Nesse contexto, faz sentido que crianças e adolescentes pretas, pobres e periféricas encontrem mais potência em uma associação criminosa que se faz presente e oferece alguma segurança e poder econômico imediatos, do que no mercado de trabalho ou por meio de políticas sociais cujo acesso não lhes é garantido. Considerando, ainda, que estes últimos tendem a não oferecer qualquer poder relevante de consumo, o medo da violência no mercado ilícito impacta menos que a incerteza da possibilidade de uma vida potente nos limites da legalidade neoliberal.</p>
+            <p>Essa visão de mundo também influencia a configuração do trabalho dos socioeducadores. Identificamos que a instabilidade dos vínculos empregatícios do contexto neoliberal está na gênese da maior motivação daqueles que se esforçaram para trabalhar como socioeducadores. Diferentemente do seu público-alvo, os sujeitos que se candidataram à seleção da SEAS em geral tiveram um pouco mais de acesso à escolarização e com isso podem nutrir a esperança de que ser selecionado para trabalhar como socioeducador represente uma entrada para o setor do emprego público, cuja estabilidade profissional é o maior atrativo para a função.</p>
+            <p>Quanto à atuação, também é notória a ênfase atual muito maior nos quesitos de segurança do que na experiência da Escola Barão de Camargos. As experiências de privação de liberdade nas unidades socioeducativas ilustram o aumento do medo na configuração do trabalho, pelo aumento da ênfase nas características de segurança entre os socioeducadores. Quanto a isso, <xref ref-type="bibr" rid="B01">Andrade (2017)</xref> observa a prevalência de uma cultura de cadeia que atrela a esses trabalhadores imagens correlatas às de carcereiros.</p>
+            <p>Mesmo com os esforços em capacitar as equipes para o trabalho educativo, a dinâmica afetiva da medida de internação em Fortaleza não alcança a sobreposição do caráter educativo ao de segurança no cotidiano dos socioeducadores. Por isso, precisamos considerar os efeitos desse acúmulo de funções e da carga afetiva decorrente dessa multiplicidade ao cotejar a experiência recente com o modelo de educador proposto por <xref ref-type="bibr" rid="B12">Costa (1999)</xref>.</p>
+            <p>Essa configuração pode explicar, por exemplo, parte das diferenças nas tipificações concebidas neste estudo. Enquanto em Fortaleza, e em outras experiências contemporâneas ao nosso estudo (<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>; <xref ref-type="bibr" rid="B17">Herculano; Gonçalves, 2011</xref>; <xref ref-type="bibr" rid="B28">Silva, 2017</xref>), existe forte influência de um certo militarismo sobre a formação e prática dos socioeducadores, que acarreta, inclusive, divergências dentro do próprio quadro de funcionários, nos relatos de Costa que analisamos não houve menções nesse sentido. O compartilhamento da visão pedagógica do autor parece ter sofrido na Escola Barão de Camargos menos resistência entre os componentes da sua equipe do que a doutrina da proteção integral sofre atualmente dentro das unidades de internação no Ceará. Entendemos, portanto, que houve pouca incidência de flutuação de ânimo na dimensão interna da escola mineira – o que, segundo nossa elaboração à luz de <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref> e <xref ref-type="bibr" rid="B15">Elias (1994)</xref>, ofereceu um ambiente coeso e propício à continuação do trabalho desenvolvido por Costa, diferentemente do que já identificamos nas unidades socioeducativas contemporâneas.</p>
+            <p>Esta, contudo, não é a única resistência que o trabalho educativo com adolescentes e jovens em privação de liberdade encontra. As duas experiências em tela tiveram que lidar de muitas formas com resistências externas. Em Ouro Preto, os acontecimentos criados pelo processo educacional dirigido por Costa foram duramente criticados por personagens públicos representantes de campos conservadores. Estes reclamavam da flexibilidade com que as educandas eram tratadas, queixavam-se de suas saídas autorizadas, condenavam veementemente qualquer distúrbio que causassem pelas ruas e direcionavam essa cobrança ao próprio diretor da Escola que teve sua reputação posta em dúvida.</p>
+            <p>Em relação a isso, <xref ref-type="bibr" rid="B12">Costa (1999)</xref> indica dois encontros específicos que foram essenciais para que o projeto não fosse interrompido pela pressão da opinião pública. De um lado, recebeu o apoio irrestrito do Dr. Luís Gonzaga Ferreira, então Presidente da Febem-MG, e do governador do Estado de Minas Gerais, Aureliano Chaves, que lhe garantiram a estabilidade necessária para continuar o trabalho. O afeto de confiança e segurança oferecido por tal encontro garantiu sentido ao esforço empregado por Costa, oferecendo a potência necessária para a continuidade do trabalho e manutenção da coesão da rede de interdependência da Escola Barão de Camargos. De outro lado, buscou dialogar com a sociedade ouro-pretana por meio da emissão de comunicados impressos para as principais lideranças da cidade. Naqueles escritos, Costa contextualizava os acontecimentos, explicava seu projeto e, além de argumentar sobre o papel que seus esforços visavam cumprir no sentido de reposicionar as adolescentes na sociedade, não hesitou em apontar como as atitudes preconceituosas e pseudocaridosas dos críticos da postura educativa que tentava implementar representavam uma vergonha para a importante história da cidade de Ouro Preto.</p>
+            <p>Contra suas próprias expectativas, sua tática dialógica surtiu efeito e muitas pessoas passaram a aprovar e apoiar seu projeto; as críticas ficaram restritas a grupos mais radicais que não tinham uma influência suficientemente ampla sobre a opinião pública. Esses encontros potentes forneceram a Costa a vivência de acontecimentos necessários para conquistar legitimidade suficiente para se tornar uma autoridade nacional de destaque nas discussões sobre políticas públicas voltadas para crianças e adolescentes:</p>
+            <p><disp-quote>
+                    <p>[...] ele participou ativamente desses debates, foi um dos redatores do Estatuto [...] enquanto outros defensores da Doutrina da Proteção Integral pensavam a reforma de maneira teórica, Antônio Carlos o fazia encharcado pelo sistema. Era um dos poucos, senão o único que podia, ao mesmo tempo, ser atravessado pelos territórios de Presidente da Febem, diretor de unidade e Pedagogo</p>
+                    <attrib>(<xref ref-type="bibr" rid="B25">Raniere, 2014</xref>, p. 66).</attrib>
+                </disp-quote></p>
+            <p>Essa configuração potente proporcionou a Costa, inclusive, projeção midiática em “reportagem de Luiz Fernando Emediato publicada no jornal O Estado de São Paulo em março de 1983” (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>, p. 115), mesmo ano em que foi nomeado pelo Governador de Minas Gerais Tancredo Neves como presidente da Febem-MG. Daí por diante, o nome Antônio Carlos Gomes da Costa se tornou elemento comum em diversos esforços relacionados a infância e juventude, como Diretor Executivo do Centro Brasileiro para Infância e Adolescência (CBIA), Oficial de Projetos do Fundo das Nações Unidas para a Infância (Unicef), consultor em várias fundações, institutos e membro eleito no Comitê dos Direitos da Criança da Organização das Nações Unidas (ONU), em Genebra (<xref ref-type="bibr" rid="B12">Costa, 1999</xref>).</p>
+            <p>O apoio institucional e a possibilidade de comunicação com a sociedade também são essenciais para os socioeducadores em Fortaleza e foram abordados em nossa pesquisa. Observamos que os encontros desses sujeitos com as instituições governamentais a que estão submetidos, seja a SEAS ou outros representantes do poder executivo, não oferecem uma potência afetiva suficientemente estável para que se forme uma tendência geral de engajamento no trabalho. Tais encontros têm sido raros e, como já relatamos, ampliam afetos tristes. Quando afetos de desconfiança, frustração e ódio permeiam a relação, os laços da rede se fragilizam e sua estrutura perde coesão.</p>
+            <p>Quanto à reprovação externa, compreendemos que ela se dá de maneira diferente da que Costa sofreu. Contudo, a raiz do descontentamento é comum e se localiza no que <xref ref-type="bibr" rid="B27">Schwarcz (2019)</xref> denomina de paradigma nacional autoritário. Ao desacreditar a condição de sujeito em desenvolvimento do adolescente, sobretudo quando preto e pobre, o pensamento estritamente punitivista e excludente reduz o sentido do trabalho do socioeducador, podendo imprimir-lhe a imagem de carcereiro, cuja função é apenas repressiva e de contenção. Verificamos, inclusive, ao revisar notícias em <italic>sites</italic> dos maiores jornais do estado, a tendência da mídia regional de reforçar essa imagem (<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>). Por outro lado, este paradigma também representa uma possível associação do socioeducador à imagem do sujeito que “passa a mão na cabeça de bandido”. Dificilmente, sob esse paradigma, imprime-se a imagem de trabalhador qualificado para a recondução ao convívio social de adolescentes que cometeram atos infracionais. A interlocução que mantivemos com os sujeitos da nossa pesquisa evidenciou que a impossibilidade de sentir orgulho do próprio trabalho reduz a potência dessa categoria profissional.</p>
+            <p>Além da possibilidade que Costa encontrou ao dialogar com a comunidade para reverter preconceitos e conquistar reconhecimento, sua proximidade com o mundo universitário também lhe proporcionou diversos encontros potentes para a dinâmica afetiva adequada ao prosseguimento das atividades e expansão das proposições nascidas na Escola Barão de Camargos. Atualmente, a alternativa comunicacional empregada por Costa nos parece menos viável, ao considerar a incrível complexidade alcançada pelos meios de comunicação e a grande competitividade pela atenção pública. Ademais, evidenciamos que – apesar de existir alguma proximidade dos socioeducadores de Fortaleza com círculos acadêmicos e universitários, sobretudo na área de humanidades – seus encontros ainda são pouco expressivos para propiciar potência à rede de socioeducadores. Falta a possibilidade, ou o interesse, de criar mais acontecimentos – aderindo à proposição de <xref ref-type="bibr" rid="B12">Costa (1999)</xref> – que propiciem encontros entre essas redes capazes de repercutir na dinâmica afetiva da configuração.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Considerações finais</title>
+            <p>Especialmente a partir do que discutimos na seção precedente, podemos afirmar que o incremento de mercados ilícitos, o avanço do neoliberalismo, a complexificação das comunicações, a dinâmica afetiva da categoria com a instituição gestora enquanto representante do poder executivo estadual e da doutrina de proteção integral de crianças e adolescentes ampliam espaços e formas de sobrevida e operacionalização interna de resquícios da doutrina de situação irregular na atualidade do sistema socioeducativo. Tais elementos são ilustrados, inclusive, nos diferentes tipos de socioeducadores concebidos nas duas experiências analisadas. Esta hipótese nos parece factível à investigação em outros âmbitos da federação nacional e se reforça com os encontros de afecção triste entre uma categoria profissional e uma institucionalidade pública, que não conseguem produzir confiança mútua capaz e potente para manter os nós da rede necessária entre órgão gestor e trabalhadores.</p>
+            <p>Em contraponto, o que <xref ref-type="bibr" rid="B12">Costa (1999)</xref> empreendeu enquanto educador de meninas em privação de liberdade em uma configuração nacional adversa e antidemocrática só foi possível devido à configuração regional e local favorável, marcada, inclusive, pelo apoio político-institucional. No âmbito local, a estrutura de trabalho em que o próprio autor se somava à sua esposa e outros entusiastas proporcionou uma dinâmica afetiva potente. O suporte, reconhecimento e aprovação que ele encontrou na presidência da Febem e no governo de Minas Gerais, numa parcela da comunidade ouro-pretana e na comunidade acadêmica abriram portas para as diretrizes inovadoras do pedagogo mineiro e sua projeção em veículos da mídia nacional. Tais fatores foram determinantes para que seus esforços tivessem destaque na reformulação da política nacional de socioeducação. No entanto, os socioeducadores cearenses enxergam na SEAS e no Governo do Estado do Ceará principalmente desconfiança e ódio; em relação à comunidade sentem medo e vergonha; não mantêm uma relação suficientemente relevante com o mundo científico-universitário; e na mídia, encontram, sobretudo, o reforço da imagem de carcereiros que a categoria carrega (<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>).</p>
+            <p>Os dois casos relatados neste texto competem para afirmarmos que, apesar dos recentes avanços institucionais-normativos, ainda abundam afetos tristes na atualidade do trabalho de socioeducadores do sistema socioeducativo, dando lugar ao patrimonialismo racista e violento que revela resquícios do Código de Menores e da “doutrina da situação irregular” que precederam a instituição de um Sistema Nacional de Atendimento Socioeducativo no Brasil. Enquanto não se reverter a polarização afetiva e favorecer a potência dos encontros entre as redes de interdependência dos socioeducadores, consideramos que a multiplicidade paradigmática continuará presente nessa categoria profissional.</p>
+            <p>Não há modelo ou caminho pré-fabricado para uma configuração potente. Contudo, a presente reflexão à luz de <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref> e <xref ref-type="bibr" rid="B15">Elias (1994)</xref> oferece uma compreensão útil para a elaboração de ações que proporcionem a prevalência de encontros alegres e a mitigação das flutuações de ânimo, protegendo as relações da rede de interdependência contra a insurgência de paradigmas opostos às diretrizes que regem o esforço socioeducativo orientado pelo paradigma institucional democrático, pois</p>
+            <p><disp-quote>
+                    <p>[c]omo já aprendemos com <xref ref-type="bibr" rid="B29">Spinoza (2017)</xref> e <xref ref-type="bibr" rid="B15">Elias (1994)</xref>, é nesses momentos que as imagens e autoimagens podem ser reordenadas; e como <xref ref-type="bibr" rid="B27">Schwarcz (2019)</xref> complementa, no Brasil o autoritarismo está sempre esperando um momento de fragilidade da ordenação institucional-democrática para ressurgir</p>
+                    <attrib>(<xref ref-type="bibr" rid="B22">Oliveira Júnior, 2021</xref>, p. 113).</attrib>
+                </disp-quote></p>
+            <p>Há ainda uma inquietante questão que não cabe neste recorte e diz respeito a como Costa conseguiu, durante uma ditadura militar caracterizada pela repressão e desrespeito aos direitos humanos, implantar concepções democráticas e humanistas notoriamente divergentes do paradigma estabelecido no regime de governo. Além da indiferença do governo militar a experiências como a da Escola Barão de Camargos, a hipótese que pretendemos avaliar na sequência desta reflexão se pauta no esforço empregado por Costa na conciliação do trabalho pedagógico com o modo de vida empresarial (<xref ref-type="bibr" rid="B25">Raniere, 2014</xref>), que se insurgia imbricado aos primeiros passos do que viria a se tornar o paradigma neoliberal no Brasil, para investigar se a projeção desse personagem obteve potência nos encontros por convergir com ideias como empreendedorismo, produção de riquezas e protagonismo no “dever ser” do sujeito.</p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>Referências</title>
+            <ref id="B01">
+                <label>1</label>
+                <mixed-citation>﻿ANDRADE, Aedra Sarah de. <italic>“Aqui as flores nascem no concreto”</italic>: negociações nas atuações laborais de agentes socioeducativos. Dissertação (Mestrado em Processos de Desenvolvimento Humano e Saúde). Brasília: UnB, 2017.</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>ANDRADE</surname>
+                            <given-names>Aedra Sarah de</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>“Aqui as flores nascem no concreto”</italic>: negociações nas atuações laborais de agentes socioeducativos</source>
+                    <comment>Dissertação (Mestrado em Processos de Desenvolvimento Humano e Saúde)</comment>
+                    <publisher-loc>Brasília</publisher-loc>
+                    <publisher-name>UnB</publisher-name>
+                    <year>2017</year>
+                </element-citation>
+            </ref>
+            <ref id="B02">
+                <label>2</label>
+                <mixed-citation>ANTUNES, Ricardo. O trabalho, sua nova morfologia e a era da precarização estrutural. <italic>Revista Theomai</italic>, n. 19, p. 47-57, 2009.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>ANTUNES</surname>
+                            <given-names>Ricardo</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>O trabalho, sua nova morfologia e a era da precarização estrutural</article-title>
+                    <source>Revista Theomai</source>
+                    <issue>19</issue>
+                    <fpage>47</fpage>
+                    <lpage>57</lpage>
+                    <year>2009</year>
+                </element-citation>
+            </ref>
+            <ref id="B03">
+                <label>3</label>
+                <mixed-citation>BRANDÃO, Marcílio Dantas. Medo, adoração e encantamento na política de juventude brasileira. <italic>O Público e o Privado</italic>, v. 17, n. 34, p. 51-85 2019. &lt;https://revistas.uece.br/index.php/opublicoeoprivado/article/view/2643/2114&gt;.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>BRANDÃO</surname>
+                            <given-names>Marcílio Dantas</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Medo, adoração e encantamento na política de juventude brasileira</article-title>
+                    <source>O Público e o Privado</source>
+                    <volume>17</volume>
+                    <issue>34</issue>
+                    <fpage>51</fpage>
+                    <lpage>85</lpage>
+                    <year>2019</year>
+                    <ext-link ext-link-type="uri" xlink:href="https://revistas.uece.br/index.php/opublicoeoprivado/article/view/2643/2114">https://revistas.uece.br/index.php/opublicoeoprivado/article/view/2643/2114</ext-link>
+                </element-citation>
+            </ref>
+            <ref id="B04">
+                <label>4</label>
+                <mixed-citation>BRASIL, Glaucíria Mota; SANTIAGO, Érica Maria; BRANDÃO, Marcílio Dantas. A banalidade da violência policial contra jovens pobres, pretos e periféricos na cidade de Fortaleza. <italic>Dilemas</italic>, v. 13, n. 1, p. 169-193, 2020. &lt;https://revistas.ufrj.br/index.php/dilemas/article/view/17733&gt;.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>BRASIL</surname>
+                            <given-names>Glaucíria Mota</given-names>
+                        </name>
+                        <name>
+                            <surname>SANTIAGO</surname>
+                            <given-names>Érica Maria</given-names>
+                        </name>
+                        <name>
+                            <surname>BRANDÃO</surname>
+                            <given-names>Marcílio Dantas</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>A banalidade da violência policial contra jovens pobres, pretos e periféricos na cidade de Fortaleza</article-title>
+                    <source>Dilemas</source>
+                    <volume>13</volume>
+                    <issue>1</issue>
+                    <fpage>169</fpage>
+                    <lpage>193</lpage>
+                    <year>2020</year>
+                    <ext-link ext-link-type="uri" xlink:href="https://revistas.ufrj.br/index.php/dilemas/article/view/17733">https://revistas.ufrj.br/index.php/dilemas/article/view/17733</ext-link>
+                </element-citation>
+            </ref>
+            <ref id="B05">
+                <label>5</label>
+                <mixed-citation>BRASIL. Constituição da República Federativa do Brasil de 1988. <italic>Diário Oficial da União</italic> - Seção 1 - 5/10/1988. Disponível em: https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html.</mixed-citation>
+                <element-citation publication-type="legal-doc">
+                    <person-group person-group-type="author">
+                        <collab>BRASIL</collab>
+                    </person-group>
+                    <article-title>Constituição da República Federativa do Brasil de 1988</article-title>
+                    <source>Diário Oficial da União</source>
+                    <comment>Seção 1 - 5/10/1988</comment>
+                    <year>1988</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html">https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B06">
+                <label>6</label>
+                <mixed-citation>BRASIL. Presidência da República. <italic>Lei 6697 de 10 de outubro de 1979</italic>. Código de Menores. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6697impressao.htm.</mixed-citation>
+                <element-citation publication-type="legal-doc">
+                    <person-group person-group-type="author">
+                        <collab>BRASIL</collab>
+                        <collab>Presidência da República</collab>
+                    </person-group>
+                    <source>Lei 6697 de 10 de outubro de 1979</source>
+                    <comment>Código de Menores</comment>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6697impressao.htm">http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6697impressao.htm</ext-link></comment>
+                    <date-in-citation content-type="access-date">21 out. 2016</date-in-citation>
+                    <year>1979</year>
+                </element-citation>
+            </ref>
+            <ref id="B07">
+                <label>7</label>
+                <mixed-citation>BRASIL. Presidência da República. Congresso Nacional. <italic>Lei Nº 8.069, de 13 de julho de 1990</italic>. Estatuto da Criança e do Adolescente - ECA. Brasília: Presidência da República, 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l8069.htm.</mixed-citation>
+                <element-citation publication-type="legal-doc">
+                    <person-group person-group-type="author">
+                        <collab>BRASIL</collab>
+                        <collab>Presidência da República</collab>
+                        <collab>Congresso Nacional</collab>
+                    </person-group>
+                    <source>Lei Nº 8.069, de 13 de julho de 1990</source>
+                    <article-title>Estatuto da Criança e do Adolescente - ECA</article-title>
+                    <publisher-loc>Brasília</publisher-loc>
+                    <publisher-name>Presidência da República</publisher-name>
+                    <year>1990</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/leis/l8069.htm">http://www.planalto.gov.br/ccivil_03/leis/l8069.htm</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B08">
+                <label>8</label>
+                <mixed-citation>BRASIL. Presidência da República. Secretaria Especial dos Direitos Humanos. Conselho Nacional dos Direitos da Criança e do Adolescente. <italic>Sistema Nacional De Atendimento Socioeducativo -SINASE</italic>. Brasília: CONANDA, 2006. Disponível em: http://www.conselhodacrianca.al.gov.br/sala-de-imprensa/publicacoes/sinase.pdf. Acesso em: 22 abr. 2021.</mixed-citation>
+                <element-citation publication-type="legal-doc">
+                    <person-group person-group-type="author">
+                        <collab>BRASIL</collab>
+                        <collab>Presidência da República</collab>
+                        <collab>Secretaria Especial dos Direitos Humanos</collab>
+                        <collab>Conselho Nacional dos Direitos da Criança e do Adolescente</collab>
+                    </person-group>
+                    <source>Sistema Nacional De Atendimento Socioeducativo -SINASE</source>
+                    <publisher-loc>Brasília</publisher-loc>
+                    <publisher-name>CONANDA</publisher-name>
+                    <year>2006</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.conselhodacrianca.al.gov.br/sala-de-imprensa/publicacoes/sinase.pdf">http://www.conselhodacrianca.al.gov.br/sala-de-imprensa/publicacoes/sinase.pdf</ext-link></comment>
+                    <date-in-citation content-type="access-date">22 abr. 2021</date-in-citation>
+                </element-citation>
+            </ref>
+            <ref id="B09">
+                <label>9</label>
+                <mixed-citation>BRASIL. Ministério da Justiça e Cidadania. Secretaria Especial de Direitos Humanos. Governo do Estado do Ceará. <italic>Sistema Socioeducativo</italic>: perspectivas e possibilidades para um novo modelo de gestão. Fortaleza: Governo do Estado do Ceará, 2016. Disponível em: https://www.seas.ce.gov.br/planejamento/.</mixed-citation>
+                <element-citation publication-type="legal-doc">
+                    <person-group person-group-type="author">
+                        <collab>BRASIL. Ministério da Justiça e Cidadania. Secretaria Especial de Direitos Humanos. Governo do Estado do Ceará</collab>
+                    </person-group>
+                    <source><italic>Sistema Socioeducativo</italic>: perspectivas e possibilidades para um novo modelo de gestão</source>
+                    <publisher-loc>Fortaleza</publisher-loc>
+                    <publisher-name>Governo do Estado do Ceará</publisher-name>
+                    <year>2016</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.seas.ce.gov.br/planejamento/">https://www.seas.ce.gov.br/planejamento/</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B10">
+                <label>10</label>
+                <mixed-citation>CEARÁ, Governo do Estado. <italic>Plano estadual decenal de atendimento socioeducativo do estado do Ceará</italic>. Fortaleza: Governo do Estado do Ceará, 2018.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>CEARÁ, Governo do Estado</collab>
+                    </person-group>
+                    <source>Plano estadual decenal de atendimento socioeducativo do estado do Ceará</source>
+                    <publisher-loc>Fortaleza</publisher-loc>
+                    <publisher-name>Governo do Estado do Ceará</publisher-name>
+                    <year>2018</year>
+                </element-citation>
+            </ref>
+            <ref id="B11">
+                <label>11</label>
+                <mixed-citation>CCPHA - Comitê Cearense pela Prevenção de Homicídios na Adolescência. <italic>Cada vida importa:</italic> relatório final 2016. Fortaleza: CCPHA, 2016.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <collab>CCPHA - Comitê Cearense pela Prevenção de Homicídios na Adolescência</collab>
+                    </person-group>
+                    <source><italic>Cada vida importa:</italic> relatório final 2016</source>
+                    <publisher-loc>Fortaleza</publisher-loc>
+                    <publisher-name>CCPHA</publisher-name>
+                    <year>2016</year>
+                </element-citation>
+            </ref>
+            <ref id="B12">
+                <label>12</label>
+                <mixed-citation>COSTA, Antônio Carlos G. da. <italic>Aventura pedagógica</italic>: caminhos e descaminhos de uma ação educativa. Belo Horizonte: Modus Faciendi, 1999.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>COSTA</surname>
+                            <given-names>Antônio Carlos G. da</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>Aventura pedagógica</italic>: caminhos e descaminhos de uma ação educativa</source>
+                    <publisher-loc>Belo Horizonte</publisher-loc>
+                    <publisher-name>Modus Faciendi</publisher-name>
+                    <year>1999</year>
+                </element-citation>
+            </ref>
+            <ref id="B13">
+                <label>13</label>
+                <mixed-citation>DAMÁSIO, Antônio. <italic>O mistério da consciência</italic>: do corpo e das emoções ao conhecimento de si. São Paulo: Companhia das Letras, 2000.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>DAMÁSIO</surname>
+                            <given-names>Antônio</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>O mistério da consciência</italic>: do corpo e das emoções ao conhecimento de si</source>
+                    <publisher-loc>São Paulo</publisher-loc>
+                    <publisher-name>Companhia das Letras</publisher-name>
+                    <year>2000</year>
+                </element-citation>
+            </ref>
+            <ref id="B14">
+                <label>14</label>
+                <mixed-citation>DAMÁSIO, Antônio. <italic>Em busca de Espinosa</italic>: prazer e dor na ciência dos sentimentos. São Paulo: Companhia das Letras, 2004.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>DAMÁSIO</surname>
+                            <given-names>Antônio</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>Em busca de Espinosa</italic>: prazer e dor na ciência dos sentimentos</source>
+                    <publisher-loc>São Paulo</publisher-loc>
+                    <publisher-name>Companhia das Letras</publisher-name>
+                    <year>2004</year>
+                </element-citation>
+            </ref>
+            <ref id="B15">
+                <label>15</label>
+                <mixed-citation>ELIAS, Norbert. <italic>A sociedade dos indivíduos</italic>. Rio de Janeiro: Jorge Zahar, 1994.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>ELIAS</surname>
+                            <given-names>Norbert</given-names>
+                        </name>
+                    </person-group>
+                    <source>A sociedade dos indivíduos</source>
+                    <publisher-loc>Rio de Janeiro</publisher-loc>
+                    <publisher-name>Jorge Zahar</publisher-name>
+                    <year>1994</year>
+                </element-citation>
+            </ref>
+            <ref id="B16">
+                <label>16</label>
+                <mixed-citation>ELIAS, Norbert. <italic>Os estabelecidos e os outsiders:</italic> sociologia das relações de poder a partir de uma pequena comunidade. Rio de Janeiro: Jorge Zahar, 2000.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>ELIAS</surname>
+                            <given-names>Norbert</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>Os estabelecidos e os outsiders:</italic> sociologia das relações de poder a partir de uma pequena comunidade</source>
+                    <publisher-loc>Rio de Janeiro</publisher-loc>
+                    <publisher-name>Jorge Zahar</publisher-name>
+                    <year>2000</year>
+                </element-citation>
+            </ref>
+            <ref id="B17">
+                <label>17</label>
+                <mixed-citation>HERCULANO, José Antônio H.; GONÇALVES, Marcelo C.. Educador social: segurança e socioeducador, a conciliação. <italic>Serv. Soc. Rev.</italic>, v. 14, n.1, p. 74-101, 2011.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>HERCULANO</surname>
+                            <given-names>José Antônio H.</given-names>
+                        </name>
+                        <name>
+                            <surname>GONÇALVES</surname>
+                            <given-names>Marcelo C.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Educador social: segurança e socioeducador, a conciliação</article-title>
+                    <source>Serv. Soc. Rev.</source>
+                    <volume>14</volume>
+                    <issue>1</issue>
+                    <fpage>74</fpage>
+                    <lpage>101</lpage>
+                    <year>2011</year>
+                </element-citation>
+            </ref>
+            <ref id="B18">
+                <label>18</label>
+                <mixed-citation>LORDON, Frédéric. <italic>A sociedade dos afetos</italic>: por um estruturalismo das paixões. Campinas: Papirus, 2015.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>LORDON</surname>
+                            <given-names>Frédéric</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>A sociedade dos afetos</italic>: por um estruturalismo das paixões</source>
+                    <publisher-loc>Campinas</publisher-loc>
+                    <publisher-name>Papirus</publisher-name>
+                    <year>2015</year>
+                </element-citation>
+            </ref>
+            <ref id="B19">
+                <label>19</label>
+                <mixed-citation>NAÇÕES UNIDAS BRASIL. <italic>Adolescência, juventude e redução da maioridade penal</italic>. Brasília: ONU-BR, 2015. Disponível em: https://brasil.un.org/pt-br/node/52707. Acesso em: 19 jun. 2022.</mixed-citation>
+                <element-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>NAÇÕES UNIDAS BRASIL</collab>
+                    </person-group>
+                    <source>Adolescência, juventude e redução da maioridade penal</source>
+                    <publisher-loc>Brasília</publisher-loc>
+                    <publisher-name>ONU-BR</publisher-name>
+                    <year>2015</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://brasil.un.org/pt-br/node/52707">https://brasil.un.org/pt-br/node/52707</ext-link></comment>
+                    <date-in-citation content-type="access-date">19 jun. 2022</date-in-citation>
+                </element-citation>
+            </ref>
+            <ref id="B20">
+                <label>20</label>
+                <mixed-citation>OEA - Organização dos Estados Americanos. Comissão Interamericana de Direitos Humanos - CIDH. <italic>Medida Cautelar N° MC 60- 15</italic> - um mil adolescentes internados no Ceará. 2015. Disponível em: https://www.oas.org/es/cidh/decisiones/pdf/2015/MC60-15-PT.pdf.</mixed-citation>
+                <element-citation publication-type="webpage">
+                    <person-group person-group-type="author">
+                        <collab>OEA - Organização dos Estados Americanos</collab>
+                        <collab>Comissão Interamericana de Direitos Humanos - CIDH</collab>
+                    </person-group>
+                    <source><italic>Medida Cautelar N° MC 60- 15</italic> - um mil adolescentes internados no Ceará</source>
+                    <year>2015</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/es/cidh/decisiones/pdf/2015/MC60-15-PT.pdf">https://www.oas.org/es/cidh/decisiones/pdf/2015/MC60-15-PT.pdf</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B21">
+                <label>21</label>
+                <mixed-citation>OLIVEIRA JÚNIOR, Rosalvo N. de. <italic>Auditores fiscais</italic>: nas fronteiras físicas e afetivas. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais). Fortaleza: UECE, 2018. Disponível em: https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=87808.</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>OLIVEIRA</surname>
+                            <given-names>Rosalvo N. de</given-names>
+                            <suffix>JÚNIOR</suffix>
+                        </name>
+                    </person-group>
+                    <source><italic>Auditores fiscais</italic>: nas fronteiras físicas e afetivas</source>
+                    <comment>Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)</comment>
+                    <publisher-loc>Fortaleza</publisher-loc>
+                    <publisher-name>UECE</publisher-name>
+                    <year>2018</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=87808">https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=87808</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B22">
+                <label>22</label>
+                <mixed-citation>OLIVEIRA JÚNIOR, Rosalvo N. de. <italic>Socioeducadores da política pública de atendimento socioeducativo do Ceará</italic>: a constituição de uma categoria de trabalho sob uma disputa paradigmática. Dissertação (Mestrado em Sociologia). Fortaleza: UECE, 2021. Disponível em: https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=11291351.</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>OLIVEIRA</surname>
+                            <given-names>Rosalvo N. de</given-names>
+                            <suffix>JÚNIOR</suffix>
+                        </name>
+                    </person-group>
+                    <source><italic>Socioeducadores da política pública de atendimento socioeducativo do Ceará</italic>: a constituição de uma categoria de trabalho sob uma disputa paradigmática</source>
+                    <comment>Dissertação (Mestrado em Sociologia)</comment>
+                    <publisher-loc>Fortaleza</publisher-loc>
+                    <publisher-name>UECE</publisher-name>
+                    <year>2021</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=11291351">https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=11291351</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B23">
+                <label>23</label>
+                <mixed-citation>PEIXOTO, Roberto B. <italic>A gestão de execução de medidas socioeducativas no estado do Paraná</italic>: uma política pública em construção. Dissertação (Mestrado em Organizações e Desenvolvimento). Curitiba: FAE Centro Universitário, 2011. Disponível em: https://img.fae.edu/galeria/getImage/108/18715837684546246.pdf.</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>PEIXOTO</surname>
+                            <given-names>Roberto B.</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>A gestão de execução de medidas socioeducativas no estado do Paraná</italic>: uma política pública em construção</source>
+                    <comment>Dissertação (Mestrado em Organizações e Desenvolvimento)</comment>
+                    <publisher-loc>Curitiba</publisher-loc>
+                    <publisher-name>FAE Centro Universitário</publisher-name>
+                    <year>2011</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://img.fae.edu/galeria/getImage/108/18715837684546246.pdf">https://img.fae.edu/galeria/getImage/108/18715837684546246.pdf</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B24">
+                <label>24</label>
+                <mixed-citation>PEREIRA JÚNIOR, Luciano Aparecido; BERETTA, Regina Célia de S. O trabalho infantil e o tráfico de drogas: uma relação de violação de direitos. <italic>In</italic>: OLIVEIRA, Thaislayne N. de (org.). <italic>Processos de subjetivação no serviço social 4</italic>. Ponta Grossa: Atena, 2020. p. 42-53</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>PEREIRA</surname>
+                            <given-names>Luciano Aparecido</given-names>
+                            <suffix>JÚNIOR</suffix>
+                        </name>
+                        <name>
+                            <surname>BERETTA</surname>
+                            <given-names>Regina Célia de S</given-names>
+                        </name>
+                    </person-group>
+                    <chapter-title>O trabalho infantil e o tráfico de drogas: uma relação de violação de direitos</chapter-title>
+                    <person-group person-group-type="compiler">
+                        <name>
+                            <surname>OLIVEIRA</surname>
+                            <given-names>Thaislayne N. de</given-names>
+                        </name>
+                    </person-group>
+                    <source>Processos de subjetivação no serviço social 4</source>
+                    <publisher-loc>Ponta Grossa</publisher-loc>
+                    <publisher-name>Atena</publisher-name>
+                    <year>2020</year>
+                    <fpage>42</fpage>
+                    <lpage>53</lpage>
+                </element-citation>
+            </ref>
+            <ref id="B25">
+                <label>25</label>
+                <mixed-citation>RANIERE, Édio. <italic>A invenção das medidas socioeducativas</italic>. Tese (Doutorado em Psicologia Social e Institucional), Universidade Federal do Rio Grande do Sul, 2014.</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>RANIERE</surname>
+                            <given-names>Édio</given-names>
+                        </name>
+                    </person-group>
+                    <source>A invenção das medidas socioeducativas</source>
+                    <comment>Tese (Doutorado em Psicologia Social e Institucional)</comment>
+                    <publisher-name>Universidade Federal do Rio Grande do Sul</publisher-name>
+                    <year>2014</year>
+                </element-citation>
+            </ref>
+            <ref id="B26">
+                <label>26</label>
+                <mixed-citation>RODRIGUES, Luzania B.; RIBEIRO, Monique da S.; FRAGA, Paulo César P. O envolvimento de adolescentes no tráfico de drogas em Juazeiro - norte da Bahia: uma análise do fluxo dos processos judiciais da vara da infância e da juventude. <italic>Teoria e Cultura</italic>, v. 12, n. 1, p. 241-252, 2017.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>RODRIGUES</surname>
+                            <given-names>Luzania B.</given-names>
+                        </name>
+                        <name>
+                            <surname>RIBEIRO</surname>
+                            <given-names>Monique da S.</given-names>
+                        </name>
+                        <name>
+                            <surname>FRAGA</surname>
+                            <given-names>Paulo César P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>O envolvimento de adolescentes no tráfico de drogas em Juazeiro - norte da Bahia: uma análise do fluxo dos processos judiciais da vara da infância e da juventude</article-title>
+                    <source>Teoria e Cultura</source>
+                    <volume>12</volume>
+                    <issue>1</issue>
+                    <fpage>241</fpage>
+                    <lpage>252</lpage>
+                    <year>2017</year>
+                </element-citation>
+            </ref>
+            <ref id="B27">
+                <label>27</label>
+                <mixed-citation>SCHWARCZ, Lilia M. <italic>Sobre o autoritarismo brasileiro</italic>. São Paulo: Companhia das Letras, 2019.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>SCHWARCZ</surname>
+                            <given-names>Lilia M.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Sobre o autoritarismo brasileiro</source>
+                    <publisher-loc>São Paulo</publisher-loc>
+                    <publisher-name>Companhia das Letras</publisher-name>
+                    <year>2019</year>
+                </element-citation>
+            </ref>
+            <ref id="B28">
+                <label>28</label>
+                <mixed-citation>SILVA, Daiane T. da. <italic>Formação e prática</italic>: a percepção do socioeducador - um estudo no centro socioeducativo na cidade de Vilhena/RO. Dissertação (Mestrado em Educação), Universidade do Estado de Mato Grosso, 2017. Disponível em: https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=6103006 .</mixed-citation>
+                <element-citation publication-type="thesis">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>SILVA</surname>
+                            <given-names>Daiane T. da</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>Formação e prática</italic>: a percepção do socioeducador - um estudo no centro socioeducativo na cidade de Vilhena/RO</source>
+                    <comment>Dissertação (Mestrado em Educação)</comment>
+                    <publisher-name>Universidade do Estado de Mato Grosso</publisher-name>
+                    <year>2017</year>
+                    <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=6103006">https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&amp;id_trabalho=6103006</ext-link></comment>
+                </element-citation>
+            </ref>
+            <ref id="B29">
+                <label>29</label>
+                <mixed-citation>SPINOZA, Baruch de. <italic>Ética</italic>. [1677]. Rio de Janeiro: Autêntica, 2017.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>SPINOZA</surname>
+                            <given-names>Baruch de</given-names>
+                        </name>
+                    </person-group>
+                    <source>Ética</source>
+                    <comment>1677</comment>
+                    <publisher-loc>Rio de Janeiro</publisher-loc>
+                    <publisher-name>Autêntica</publisher-name>
+                    <year>2017</year>
+                </element-citation>
+            </ref>
+            <ref id="B30">
+                <label>30</label>
+                <mixed-citation>STRAUSS, Anselm; CORBIN, Juliet. <italic>Pesquisa qualitativa</italic>: técnicas e procedimentos para o desenvolvimento de teoria fundamentada. Porto Alegre: Artmed, 2008.</mixed-citation>
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>STRAUSS</surname>
+                            <given-names>Anselm</given-names>
+                        </name>
+                        <name>
+                            <surname>CORBIN</surname>
+                            <given-names>Juliet</given-names>
+                        </name>
+                    </person-group>
+                    <source><italic>Pesquisa qualitativa</italic>: técnicas e procedimentos para o desenvolvimento de teoria fundamentada</source>
+                    <publisher-loc>Porto Alegre</publisher-loc>
+                    <publisher-name>Artmed</publisher-name>
+                    <year>2008</year>
+                </element-citation>
+            </ref>
+            <ref id="B31">
+                <label>31</label>
+                <mixed-citation>VERONESE, Josiane Rose P.; LIMA, Fernanda da S. O Sistema Nacional de Atendimento Socioeducativo (SINASE): breves considerações. <italic>Revista Brasileira Adolescência e Conflitualidade</italic>, v. 1, n. 1, p. 29-46. 2009.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>VERONESE</surname>
+                            <given-names>Josiane Rose P.</given-names>
+                        </name>
+                        <name>
+                            <surname>LIMA</surname>
+                            <given-names>Fernanda da S.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>O Sistema Nacional de Atendimento Socioeducativo (SINASE): breves considerações</article-title>
+                    <source>Revista Brasileira Adolescência e Conflitualidade</source>
+                    <volume>1</volume>
+                    <issue>1</issue>
+                    <fpage>29</fpage>
+                    <lpage>46</lpage>
+                    <year>2009</year>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>
