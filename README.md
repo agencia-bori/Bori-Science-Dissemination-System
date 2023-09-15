@@ -63,41 +63,45 @@ Our aim is to provide a seamless interface where abstracts can be submitted, rev
 
 ## Folder strucure
 
-- BoriSciReporter
-  - .gitignore
-  - config.py
-  - requirements.txt
-  - run.py
-  - app
-    - routes.py
-    - __init__.py
-    - static
-      - css
-        - main.css
-      - images
-        - agenciabori-favicon-solid.jpg
-        - ... (other images)
-      - js
-        - main.js
-    - templates
-      - paper_details.html
-    - pycache
-      - routes.cpython-310.pyc
-      - __init__.cpython-310.pyc
-  - sql_scripts
-    - create_tables.sql
-  - powerBI
-    - template.pbix
-  - etl
-    - ExtractTextFromXML.py
-    - AboriDBXMLIngestion.py
-  - data_samples
-    - sample_data.csv
-  - bicep
-    - main.bicep
-    - ... (other bicep templates or configuration files)
-  - pycache
-    - config.cpython-310.pyc
+```plaintext
+.
+├── README.md
+├── BoriSciReporter
+│   ├── .gitignore
+│   ├── config.py
+│   ├── requirements.txt
+│   ├── run.py
+│   ├── app
+│   │   ├── routes.py
+│   │   ├── __init__.py
+│   │   ├── static
+│   │   │   ├── css
+│   │   │   │   └── main.css
+│   │   │   ├── images
+│   │   │   │   ├── agenciabori-favicon-solid.jpg
+│   │   │   │   ├── pdf.htm
+│   │   │   │   ├── pdf.jfif
+│   │   │   │   └── pdf_337946.htm
+│   │   │   └── js
+│   │   │       └── main.js
+│   │   ├── templates
+│   │   │   ├── paper_details.html
+│   │   │   └── paper_details_old.html
+│   │   └── __pycache__
+│   │       ├── routes.cpython-310.pyc
+│   │       └── __init__.cpython-310.pyc
+│   └── __pycache__
+│       └── config.cpython-310.pyc
+├── ETL
+│   ├── AboriDB-XML-Ingestion.ipynb
+│   └── Extract text from XML.ipynb
+├── PowerBI
+│   └── aBori-Curatorship-Dash.pbix
+├── Sample
+│   └── 1807-0337-soc-24-61-0198.xml
+└── SQL scripts
+    └── create-AboriDB.sql.sql
+```
 
 
 ## How to Use
