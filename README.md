@@ -61,6 +61,11 @@ The following data points will be generated to assist journalists in producing a
 
 Our aim is to provide a seamless interface where abstracts can be submitted, reviewed, and transformed into engaging news pieces, making scientific knowledge more accessible to all.
 
+## Deni
+
+Below is a demonstration of the Power BI dashboard integrating seamlessly with the submission page, showcasing the LLM summarization functionality:
+
+![Power BI dashboard and LLM integration demo](./demos/demo-sciBoriReporter-v2.gif)
 
 
 ## Folder strucure
