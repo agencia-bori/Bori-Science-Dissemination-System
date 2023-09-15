@@ -301,7 +301,9 @@ As a part of our comprehensive solution, we've also integrated with the [PDF AI 
 - **Objective**: Utilize GPT for generating concise and pertinent summaries of scientific journals.
 - **Status**: This has been crafted as a hackathon project and is not recommended for production usage.
 
-### [Demo](#) <!-- Replace # with the actual link to the demo if available -->
+### Demo
+
+![PDF AI Summary Demo](https://github.com/ritazh/pdf-ai-summary/blob/master/demo.gif)
 
 ### Development and Setup:
 1. **Pre-requisites**:
