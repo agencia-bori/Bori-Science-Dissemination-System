@@ -26,6 +26,7 @@ SciBoriReporter aims to streamline the curation and reporting process for scient
 2. **Assisting in Curation**: Providing automated insights on the potential newsworthiness, uniqueness, and public impact of an article.
 3. **Storing and Retrieving Article Details**: Using a structured database to store article metadata, summaries, and curation insights.
 4. **Seamlessly Integrating Data**: Through an ETL process that ensures data integrity, timeliness, and accessibility.
+5. **Data Analytics with Power BI**: Deliver insightful data visualizations and analytics to stakeholders, facilitating data-driven decision-making and strategic planning.
 
 ## 📑 **Overview**
 
