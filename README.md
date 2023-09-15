@@ -63,6 +63,7 @@ Our aim is to provide a seamless interface where abstracts can be submitted, rev
 
 ## Folder strucure
 
+```plaintext
 .
 ├── README.md
 ├── BoriSciReporter
@@ -100,7 +101,7 @@ Our aim is to provide a seamless interface where abstracts can be submitted, rev
 │   └── 1807-0337-soc-24-61-0198.xml
 └── SQL scripts
     └── create-AboriDB.sql.sql
-
+```
 
 
 ## How to Use
