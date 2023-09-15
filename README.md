@@ -61,6 +61,8 @@ The following data points will be generated to assist journalists in producing a
 
 Our aim is to provide a seamless interface where abstracts can be submitted, reviewed, and transformed into engaging news pieces, making scientific knowledge more accessible to all.
 
+
+
 ## Folder strucure
 
 ```plaintext
@@ -189,6 +191,8 @@ Remember to replace placeholders like `YOUR_SERVER_NAME`, `YOUR_USER_ID`, and `Y
 
 
 ## Database Tables
+
+![Alt Text](./images/database-model.png)
 
 ### 1. journal
 Stores information about the various journals.
